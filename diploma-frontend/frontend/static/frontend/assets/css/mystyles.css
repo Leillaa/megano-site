@@ -1,0 +1,25 @@
+.register_main {
+    margin-left: 38%;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.register {
+    margin-left: 25px;
+}
+
+.my_button {
+    display: block;
+    width: 258px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    font-size: 20px;
+    background-color: #0063d1;
+}
+
+.my_login {
+    margin-top: 20px;
+    margin-left: 110px;
+    font-size: 20px;
+}

@@ -1,0 +1,1134 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "title": "Ultra HD (4K) LED телевизор 50\" LG NanoCell 50NANO75VPA",
+      "price": "49999.00",
+      "count": 12,
+      "fullDescription": "Ultra HD (4K) LED-телевизор 50\\\" LG NanoCell 50NANO75VPA выводит на экран контент с разрешением 4K Ultra HD, что обеспечивает оптимальную детализацию. Специальные технологии улучшают качество цветопередачи, регулируют яркость, усиливают контрастность для создания реалистичного изображения. Это позволяет наслаждаться просмотром видеороликов, сериалов и фильмов. Устройство поддерживает функцию Smart TV для использования онлайн-кинотеатров, поиска контента, скачивания мультимедийных приложений. Модуль Wi-Fi обеспечивает скоростное беспроводное соединение для стабильной работы.\\r\\n\\r\\nСистема Ultra Surround создает качественное звучание для эффекта полного погружения в атмосферу фильмов и игр. Подача голосовых команд облегчает управление и ввод поисковых запросов. С помощью адаптера Bluetooth к Ultra HD (4K) LED-телевизору 50\\\" LG NanoCell 50NANO75VPA можно подключить мышь или клавиатуру, наушники или колонки. Порты USB позволяют подсоединить внешние накопители для воспроизведения записанных файлов. Телевизор оснащен слотом CI+ для установки CAM-модуля для приема и просмотра платных каналов.",
+      "category": 10,
+      "date": "2023-03-13T14:38:18.276Z",
+      "limited_edition": true,
+      "freeDelivery": false,
+      "rating": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "title": "Ultra HD (4K) QLED телевизор 65\" Haier 65 Smart TV AX Pro",
+      "price": "76999.00",
+      "count": 15,
+      "fullDescription": "Ultra HD (4K) QLED телевизор 65\" Haier 65 Smart TV AX Pro воспроизводит качественное изображение с разрешением 3840х2160 пикселей. Модель характеризуется естественной цветопередачей, оптимальным уровнем детализации и контрастности. Благодаря модулю Wi-Fi и технологии Smart TV устройство можно подключить к интернету, смотреть фильмы онлайн и скачивать необходимые приложения. Управление моделью осуществляется с помощью пульта ДУ и смартфона. Находить необходимую информацию удобно посредством голосового помощника Google.\r\n\r\nUltra HD (4K) QLED телевизор 65\" Haier 65 Smart TV AX Pro имеет два стереодинамика, которые обеспечивают объемный звук. Функция «Родительский контроль» дает возможность пользователю ограничить доступ детей к определенным телеканалам. Для подключения внешних накопителей информации, колонок и игровой приставки в арсенале устройства есть интерфейсы HDMI, USB, RCA и адаптер беспроводной связи Bluetooth. Телевизор можно поставить на стол, а также зафиксировать на стене посредством кронштейна стандарта VESA.",
+      "category": 10,
+      "date": "2023-03-14T13:30:53.780Z",
+      "limited_edition": true,
+      "freeDelivery": false,
+      "rating": 0
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "title": "Ultra HD (4K) LED телевизор 43\" Hi VHIX-43U169MSY",
+      "price": "13999.00",
+      "count": 20,
+      "fullDescription": "43-дюймовый телевизор Hi VHIX-43U169MSY с LED-подсветкой имеет разрешение Ultra HD (3840x2160 пикселей), что дает возможность насладиться кинолентами, вышедшими в высоком качестве и с отличной детализацией. Формат экрана — 16:9, контрастность — 1200:1. Картинка, выводимая на экран, имеет отличную четкость, яркость и насыщенность. Цвета приближены к оригинальным. Также имеется цифровое шумоподавление, которое улучшает качество картинки. Широкий угол обзора позволяет смотреть фильмы и сериалы без сильного изменения восприятия из разных мест комнаты.\r\n\r\nHi VHIX-43U169MSY имеет Smart TV с платформой «Яндекс» в качестве операционной системы. Благодаря ей вы сможете использовать телевизор для интернет-серфинга точно таким же образом, как ноутбук, стационарный компьютер или любое другое устройство. Особенно эта технология понравится любителям кино и сериалов. Кроме того, Smart TV позволяет устанавливать разнообразные приложения и запускать их прямо на большом экране. Также эта модель телевизора имеет защиту от детей, телетекст, таймер выключения.\r\n\r\nМодель поддерживает воспроизведение контента с флеш-накопителей. Для этого в ней имеется USB-разъем. Кроме того, Hi VHIX-43U169MSY имеет 3 HDMI и выход для наушников. Для подключения к интернету в телевизоре предусмотрен Wi-Fi и порт Ethernet. В комплекте есть пульт ДУ и специальная подставка, которая обеспечивает отличную устойчивость.",
+      "category": 10,
+      "date": "2023-03-14T13:31:50.829Z",
+      "limited_edition": true,
+      "freeDelivery": false,
+      "rating": 0
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "title": "Ultra HD (4K) LED телевизор 50\" LG 50UQ80006LB",
+      "price": "59999.00",
+      "count": 7,
+      "fullDescription": "Ultra HD (4K) LED-телевизор LG 50UQ80006LB с диагональю экрана 50 дюймов обеспечивает высококачественное изображение благодаря функции оптимизации HDR10 Pro. Он поддерживает FILMMAKER MODE для трансляции фильмов в том цветовом формате, в котором он был задуман режиссером. Функция Smart TV открывает доступ к онлайн-контенту и интернет-приложениям.\r\n\r\nТехнология ThinQ AI позволяет полностью персонализировать устройство. Она также дает возможность управлять им голосом. Для выбора параметров можно использовать смартфон и пульт ДУ, входящий в комплектацию. Девайс устанавливается как на стену с помощью крепления VESA 400x400, так и на любую плоскую поверхность за счет использования подставки.",
+      "category": 10,
+      "date": "2023-03-14T14:21:36.155Z",
+      "limited_edition": true,
+      "freeDelivery": false,
+      "rating": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "title": "Смартфон Apple iPhone 14 Pro 128GB Space Black",
+      "price": "109999.00",
+      "count": 9,
+      "fullDescription": "Смартфон Apple iPhone 14 Pro 128GB Space Black имеет 6,1-дюймовый дисплей Super Retina XDR. Керамическое покрытие снижает риск появления царапин и потертостей на экране при активном использовании телефона. Функция True Tone автоматически увеличивает яркость дисплея при воспроизведении контента на улице в солнечный день. Верхний активный интерфейс Dynamic Island позволяет получить расширенную версию уведомлений при касании. Это создает удобство при переключении треков, а также позволяет читать СМС без разблокировки экрана.\r\n\r\nСмартфон Apple iPhone 14 Pro 128GB Space Black оборудован процессором A16 Bionic с 16 млн транзисторов, который характеризуется высоким быстродействием. Технология ProMotion регулирует производительность графического ускорителя. Благодаря этому динамичные сцены в играх воспроизводятся максимально плавно. Модель имеет слот для карт стандарта nano-SIM. Внутренней памяти объемом 128 ГБ достаточно для хранения фотографий, важных документов и любимой музыки. Благодаря датчику Crash Detection телефон автоматически отправляет сигнал бедствия в экстренные службы при ДТП.\r\n\r\nСмартфон Apple iPhone 14 Pro 128GB Space Black оборудован основной камерой с разрешением 48 Мп и четырехпиксельным сенсором. Объектив с семью линзами захватывает больше света. Благодаря этому фотографии получаются яркими и детализированными даже ночью. Система камер Pro позволяет использовать основной модуль в качестве телеобъектива с двухкратным оптическим приближением. Технология Action Mode исключает риск размытия кадров при съемке движущихся объектов. Фронтальная камера TrueDepth со встроенной вспышкой и автофокусом позволяет делать яркие селфи крупным планом, а также групповые снимки.",
+      "category": 6,
+      "date": "2023-03-15T13:19:53.932Z",
+      "limited_edition": true,
+      "freeDelivery": false,
+      "rating": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "title": "Ноутбук Honor MagicBook 16 R5/16/512 Grey (HYM-W56)",
+      "price": "48999.00",
+      "count": 4,
+      "fullDescription": "Ноутбук Honor MagicBook 16 R5/16/512 Grey (HYM-W56) является оптимальным решением как для выполнения сложных задач, так и для общения в социальных сетях или просмотра сериалов. Высокой производительности лэптопа способствует мощное железо: шестиядерный процессор с максимальной тактовой частотой 4,2 ГГц и интегрированный графический адаптер Radeon Graphics. Благодаря сканеру отпечатков пальцев вход в систему устройства защищен от несанкционированного доступа.\r\n\r\nНоутбук Honor MagicBook 16 R5/16/512 Grey (HYM-W56) поддерживает работу в автономном режиме в течение 11,5 ч. Для этого модель получила аккумуляторную батарею со значительной емкостью. Хранить большой объем разной информации позволяет SSD-накопитель, который имеет 512 ГБ свободного места. Высококачественное воспроизведение аудиофайлов обеспечивается посредством мощных встроенных динамиков. Благодаря веб-камере с оптимальным разрешением можно участвовать в видеоконференциях.\r\n\r\nНоутбук Honor MagicBook 16 R5/16/512 Grey (HYM-W56) обладает ударопрочным алюминиевым корпусом. Поэтому внутренние элементы надежно защищены от деформации и повреждений. Просматривать фильмы в формате Full HD позволяет экран с разрешением 1920x1080 пикселей, благодаря которому картинка характеризуется великолепной цветопередачей. За счет твердотельного накопителя программы, игровые уровни и операционная система загружаются в течение нескольких секунд.",
+      "category": 4,
+      "date": "2023-03-15T13:26:55.580Z",
+      "limited_edition": true,
+      "freeDelivery": false,
+      "rating": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+      "title": "Стиральная машина LG FH0B8LD6",
+      "price": "43999.00",
+      "count": 6,
+      "fullDescription": "Стиральная машина LG FH0B8LD6 - стильная и лаконичная модель с электронным управлением, снабженная инверторным двигателем с прямым приводом. Бак изготовлен из устойчивой к механическому воздействию нержавеющей стали. Возможно управление при помощи телефона или планшета. Уровень шума в процессе стирки составляет 55 дБ, при отжиме - 73 дБ. Загрузка осуществляется фронтально - максимум до 5 кг. Дверца люка открывается на 180°. Скорость отжима достигает 1000 об/мин - при необходимости этот параметр можно регулировать. Отсрочка запуска позволяет активировать старт программы через некоторое время, что особенно актуально, когда нужно пойти по важным делам.\r\n\r\nФункционалом стиральной машины LG FH0B8LD6 предусмотрена возможность выбора температуры стирки (немаловажно для деликатных тканей) и отключение отжима. По завершении программы активируется звуковой сигнал. Модель оснащена 13 встроенными программами, за счет чего можно самостоятельно не заниматься установкой подходящих параметров. Барабан пузырькового типа выполнен из прочной и устойчивой к механическому воздействию нержавеющей стали. Для большей информативности стиральная машина LG FH0B8LD6 оснащена цифровым дисплеем и индикаторами, которые сообщают о ходе программы. Для безопасности предусмотрена защита от протечек, контроль пенообразования и дисбаланса. Самодиагностика неисправностей служит для своевременного нахождения поломок и их устранения. Потребление за один цикл - 0,95 кВт*ч (класс А).",
+      "category": 13,
+      "date": "2023-03-15T13:30:24.693Z",
+      "limited_edition": true,
+      "freeDelivery": false,
+      "rating": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+      "title": "Планшет HUAWEI MatePad 10.4 Wi-Fi 4+128GB Matte Grey (53013KYQ)",
+      "price": "19499.00",
+      "count": 6,
+      "fullDescription": "Планшет HUAWEI MatePad 10.4 Wi-Fi 4+128GB Matte Grey (53013KYQ) оборудован емкой аккумуляторной батареей, что отвечает за длительную автономную работу. Высокое качество изображения с оптимальным уровнем детализации обеспечивается благодаря сенсорному экрану с разрешением 2000x1200 пикселей. Беспроводная синхронизация с различными устройствами осуществляется посредством собственного Bluetooth-адаптера. Операционная система HarmonyOS 2.0 имеет интуитивно понятный интерфейс, что отвечает за быстрый доступ ко всем необходимым настройкам.\r\n\r\nПланшет HUAWEI MatePad 10.4 Wi-Fi 4+128GB Matte Grey (53013KYQ) характеризуется высокой вычислительной мощностью. Это обеспечивается благодаря оперативной памяти объемом 4 ГБ и производительному процессору с восемью ядрами. За счет систем спутниковой навигации ГЛОНАСС, Beidou и GPS устройство может использоваться для просмотра карт местности. Фото- и видеосъемка в высоком качестве обеспечивается за счет фронтальной камеры с разрешением 13 Мп. Для изготовления корпуса производителем применяются ударопрочное стекло и долговечный металл.",
+      "category": 7,
+      "date": "2023-03-18T19:58:25.051Z",
+      "limited_edition": true,
+      "freeDelivery": true,
+      "rating": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+      "title": "Игровой компьютер Thunderobot BW III Pro XL D i5-12400/32G/SSD512G",
+      "price": "83999.00",
+      "count": 18,
+      "fullDescription": "Игровой компьютер Thunderobot BW III Pro XL D i5-12400/32G/SSD512G/RTX3060/noOS оснащен шестиядерным процессором Intel Core i5, который способен обрабатывать до 12 потоков одновременно. Благодаря этому обеспечено стабильное функционирование системы при запуске таких ресурсоемких приложений, как графические редакторы, популярные виртуальные сражения, программы для проектирования, 3D-моделирования и рендеринга видео. Твердотельный накопитель характеризуется высокой пропускной способностью, что обеспечивает быстродействие системы.\r\n\r\nИгровой компьютер Thunderobot BW III Pro XL D i5-12400/32G/SSD512G/RTX3060/noOS оборудован видеокартой бренда NVIDIA с архитектурой Ampere. Благодаря этому динамичные сцены воспроизводятся плавно, а изображение поражает реалистичностью. Это способствует комфортному просмотру роликов и участию в играх. Благодаря усовершенствованной системе охлаждения внутренние элементы не перегреваются даже при долгой максимальной нагрузке. Блок питания характеризуется высокой энергоэффективностью, что обеспечивает стабильное функционирование модели.\r\n\r\nКорпус игрового компьютера Thunderobot BW III Pro XL D i5-12400/32G/SSD512G/RTX3060/noOS изготовлен из прочных материалов. Панель из закаленного стекла и подсветка Mobius позволяют создать в комнате геймера неповторимую игровую атмосферу. Благодаря большому внутреннему пространству можно с легкостью производить апгрейд системы и устанавливать дополнительные компоненты для повышения производительности устройства.",
+      "category": 2,
+      "date": "2023-03-18T20:02:45.694Z",
+      "limited_edition": true,
+      "freeDelivery": true,
+      "rating": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+      "title": "Саундбар Hisense U5120GW+",
+      "price": "59999.00",
+      "count": 13,
+      "fullDescription": "Саундбар Hisense U5120GW+ оборудован динамиками, которые направлены вверх и в стороны. Благодаря этому создается объемное и реалистичное звучание. С помощью функции Hi-AT модель автоматически корректирует настройки для поддержания оптимальной трансляции аудиофайлов в зависимости от типа контента. Устройство оснащено специальными технологиями, которые позволяют передавать сигнал без потери качества. За счет этого обеспечивается воспроизведение фильмов, телепередач и музыкальных треков с высокой отчетливостью.\r\n\r\nБеспроводной сабвуфер мощностью 180 Вт качественно воспроизводит низкие частоты, что добавляет звучанию глубину и выразительность. Благодаря технологии Dolby Atmos саундбар Hisense U5120GW+ создается эффект полного погружения в происходящее. С помощью одного пульта можно управлять звуком на разных устройствах. Удобное меню помогает быстро изменять настройки и режимы работы. Для синхронизации модели со смартфоном, планшетом или телевизором используется модуль Bluetooth.",
+      "category": 9,
+      "date": "2023-03-18T22:11:08.697Z",
+      "limited_edition": true,
+      "freeDelivery": true,
+      "rating": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 11,
+    "fields": {
+      "title": "Саундбар Novex N2090060AB",
+      "price": "5999.00",
+      "count": 23,
+      "fullDescription": "Саундбар Novex N2090060AB имеет компактный размер, поэтому не занимает много места. Тонкий корпус можно установить как на столе, так и зафиксировать на стене посредством специальных кронштейнов. Модель значительно расширяет возможности музыкального центра и телевизора. Акустическая система имеет четыре динамика диаметром 2,5 дюйма, которые воспроизводят качественный звук в диапазоне частот от 80 Гц до 20 кГц.\r\n\r\nСаундбар Novex N2090060AB оснащен встроенным модулем Bluetooth. Это обеспечивает эффективное взаимодействие стереосистемы и смартфона или планшета посредством беспроводной связи. Для проводного подключения на тыльной стороне есть разъемы USB, AUX и HDMI. Модель поддерживает работу с популярными форматами файлов: MP3, AAC, FLAC, WMA, WAV. Управлять саундбаром можно как посредством механических кнопок на корпусе, так и с помощью дистанционного пульта.",
+      "category": 9,
+      "date": "2023-03-18T22:16:51.423Z",
+      "limited_edition": true,
+      "freeDelivery": true,
+      "rating": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 12,
+    "fields": {
+      "title": "Холодильник Haier CEF535AWG",
+      "price": "39999.00",
+      "count": 9,
+      "fullDescription": "Холодильник Haier CEF535AWG оснащен технологией No Frost. В результате постоянной циркуляции воздуха на стенках не образуется наледь. Полки в основном отделении произведены из закаленного стекла. Материал устойчив к износу и повреждениям, выдерживает высокую нагрузку. Для хранения овощей, зелени и фруктов есть вместительный ящик. Пластиковые карманы помогают экономно использовать внутреннее пространство, подходят для емкостей с соусом, молоком, кефиром, йогуртом, водой и лимонадом.\r\n\r\nМорозильная камера, расположенная в нижней части холодильника Haier CEF535AWG, оборудована тремя ящиками. Благодаря этому есть возможность хранить рыбу, мясо и овощи отдельно друг от друга. При обработке продуктов функция суперзамораживания сохраняет максимальное количество полезных веществ и микроэлементов. При отключении электроэнергии устройство способно автономно поддерживать холод на протяжении суток. В случае незакрытой двери модель воспроизводит звуковой сигнал и активирует световой индикатор. О превышении температуры оповещает звуковая сигнализация.",
+      "category": 12,
+      "date": "2023-03-18T22:28:40.812Z",
+      "limited_edition": true,
+      "freeDelivery": true,
+      "rating": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 13,
+    "fields": {
+      "title": "Игровой монитор Thunderobot F23H60",
+      "price": "7699.00",
+      "count": 18,
+      "fullDescription": "Игровой монитор Thunderobot F23H60 с диагональю 23,8 дюйма оснащен матрицей типа IPS с разрешением Full HD. Благодаря этому достигается высокое качество изображения. Монитор обеспечивает точную цветопередачу с расширенными углами обзора в двух плоскостях: по горизонтали и по вертикали. \r\n\r\nМодель отличается небольшим весом и компактными размерами. Конструкцией предусмотрены все необходимые разъемы, включая слот для подключения наушников. Монитор подходит как для работы, так и для развлечений. Он устанавливается на специальную подставку, которая идет в комплекте.",
+      "category": 3,
+      "date": "2023-03-18T22:38:39.685Z",
+      "limited_edition": true,
+      "freeDelivery": true,
+      "rating": 4
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 1,
+    "fields": {
+      "image": "products/images/1/700x525.png",
+      "product": 1
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 2,
+    "fields": {
+      "image": "products/images/2/700x525-2.png",
+      "product": 2
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 4,
+    "fields": {
+      "image": "products/images/4/700x525-6.png",
+      "product": 4
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 5,
+    "fields": {
+      "image": "products/images/4/380x240.png",
+      "product": 4
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 6,
+    "fields": {
+      "image": "products/images/3/700x525-5.png",
+      "product": 3
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 7,
+    "fields": {
+      "image": "products/images/4/380x240_2.png",
+      "product": 4
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 8,
+    "fields": {
+      "image": "products/images/4/380x240-2.png",
+      "product": 4
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 9,
+    "fields": {
+      "image": "products/images/4/загруженное.png",
+      "product": 4
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 10,
+    "fields": {
+      "image": "products/images/4/380x240-3.png",
+      "product": 4
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 11,
+    "fields": {
+      "image": "products/images/5/380x240-4.png",
+      "product": 5
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 12,
+    "fields": {
+      "image": "products/images/5/380x240-6.png",
+      "product": 5
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 14,
+    "fields": {
+      "image": "products/images/6/700x525-5.png",
+      "product": 6
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 15,
+    "fields": {
+      "image": "products/images/6/700x525.png",
+      "product": 6
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 16,
+    "fields": {
+      "image": "products/images/6/700x525-3.png",
+      "product": 6
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 17,
+    "fields": {
+      "image": "products/images/6/700x525-2.png",
+      "product": 6
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 18,
+    "fields": {
+      "image": "products/images/6/700x525-4.png",
+      "product": 6
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 19,
+    "fields": {
+      "image": "products/images/6/700x525-6.png",
+      "product": 6
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 20,
+    "fields": {
+      "image": "products/images/6/700x525-8.png",
+      "product": 6
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 21,
+    "fields": {
+      "image": "products/images/6/700x525-7.png",
+      "product": 6
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 22,
+    "fields": {
+      "image": "products/images/7/700x525.png",
+      "product": 7
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 23,
+    "fields": {
+      "image": "products/images/7/700x525-2.png",
+      "product": 7
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 24,
+    "fields": {
+      "image": "products/images/7/700x525-3.webp",
+      "product": 7
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 25,
+    "fields": {
+      "image": "products/images/7/700x525-4.webp",
+      "product": 7
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 26,
+    "fields": {
+      "image": "products/images/7/700x525-5.webp",
+      "product": 7
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 27,
+    "fields": {
+      "image": "products/images/7/700x525-6.png",
+      "product": 7
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 28,
+    "fields": {
+      "image": "products/images/8/700x525.png",
+      "product": 8
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 29,
+    "fields": {
+      "image": "products/images/8/700x525-3.png",
+      "product": 8
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 30,
+    "fields": {
+      "image": "products/images/8/700x525-2.png",
+      "product": 8
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 31,
+    "fields": {
+      "image": "products/images/9/Копия_700x525-4.png",
+      "product": 9
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 32,
+    "fields": {
+      "image": "products/images/9/Копия_700x525-3.png",
+      "product": 9
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 33,
+    "fields": {
+      "image": "products/images/9/700x525-2.webp",
+      "product": 9
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 34,
+    "fields": {
+      "image": "products/images/9/Копия_700x525.png",
+      "product": 9
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 35,
+    "fields": {
+      "image": "products/images/10/Копия_700x525.png",
+      "product": 10
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 36,
+    "fields": {
+      "image": "products/images/10/Копия_700x525-2.png",
+      "product": 10
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 37,
+    "fields": {
+      "image": "products/images/10/Копия_700x525-3.png",
+      "product": 10
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 38,
+    "fields": {
+      "image": "products/images/11/Копия_700x525-3.png",
+      "product": 11
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 39,
+    "fields": {
+      "image": "products/images/11/Копия_700x525.png",
+      "product": 11
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 40,
+    "fields": {
+      "image": "products/images/11/Копия_700x525-4.png",
+      "product": 11
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 41,
+    "fields": {
+      "image": "products/images/12/Копия_700x525.png",
+      "product": 12
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 42,
+    "fields": {
+      "image": "products/images/12/Копия_700x525-2.png",
+      "product": 12
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 43,
+    "fields": {
+      "image": "products/images/12/700x525-3.webp",
+      "product": 12
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 44,
+    "fields": {
+      "image": "products/images/12/700x525-4.webp",
+      "product": 12
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 45,
+    "fields": {
+      "image": "products/images/13/Копия_700x525-2.png",
+      "product": 13
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 46,
+    "fields": {
+      "image": "products/images/13/Копия_700x525-5.png",
+      "product": 13
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 47,
+    "fields": {
+      "image": "products/images/13/Копия_700x525-3.png",
+      "product": 13
+    }
+  },
+  {
+    "model": "products.productimage",
+    "pk": 48,
+    "fields": {
+      "image": "products/images/13/Копия_700x525.png",
+      "product": 13
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 1,
+    "fields": {
+      "name": "телек",
+      "product": 1
+    }
+  },
+  {
+    "model": "products.tag",
+    "pk": 2,
+    "fields": {
+      "name": "тв",
+      "product": 1
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1,
+    "fields": {
+      "name": "Операционная система",
+      "category": [
+        2,
+        4,
+        7,
+        6,
+        10
+      ]
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 2,
+    "fields": {
+      "name": "Потребляемая мощность",
+      "category": [
+        10
+      ]
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 3,
+    "fields": {
+      "name": "Диагональ",
+      "category": [
+        3,
+        4,
+        7,
+        6,
+        10
+      ]
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 4,
+    "fields": {
+      "name": "Тип матрицы",
+      "category": [
+        3,
+        10
+      ]
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 5,
+    "fields": {
+      "name": "HDMI",
+      "category": [
+        10
+      ]
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 6,
+    "fields": {
+      "name": "Разрешение экрана",
+      "category": [
+        4
+      ]
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 7,
+    "fields": {
+      "name": "Класс стирки",
+      "category": [
+        13
+      ]
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 8,
+    "fields": {
+      "name": "Акустическая система",
+      "category": [
+        9
+      ]
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 9,
+    "fields": {
+      "name": "Суммарная мощность",
+      "category": [
+        9
+      ]
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 10,
+    "fields": {
+      "name": "Bluetooth",
+      "category": [
+        9
+      ]
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 11,
+    "fields": {
+      "name": "Wi-Fi",
+      "category": [
+        9
+      ]
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 12,
+    "fields": {
+      "name": "Тип",
+      "category": [
+        12
+      ]
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 13,
+    "fields": {
+      "name": "Общий объем",
+      "category": [
+        12
+      ]
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 14,
+    "fields": {
+      "name": "Количество компрессоров",
+      "category": [
+        12
+      ]
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 15,
+    "fields": {
+      "name": "Разрешение",
+      "category": [
+        3
+      ]
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 17,
+    "fields": {
+      "name": "Время отклика",
+      "category": [
+        3
+      ]
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 1,
+    "fields": {
+      "product": 4,
+      "name": 1,
+      "value": "WebOS"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 2,
+    "fields": {
+      "product": 4,
+      "name": 2,
+      "value": "130 Вт"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 3,
+    "fields": {
+      "product": 4,
+      "name": 3,
+      "value": "50\" (127 см)"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 4,
+    "fields": {
+      "product": 4,
+      "name": 4,
+      "value": "VA"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 5,
+    "fields": {
+      "product": 4,
+      "name": 5,
+      "value": "2"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 6,
+    "fields": {
+      "product": 5,
+      "name": 1,
+      "value": "iOS"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 7,
+    "fields": {
+      "product": 5,
+      "name": 3,
+      "value": "6.1\""
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 8,
+    "fields": {
+      "product": 6,
+      "name": 1,
+      "value": "Без ОС"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 9,
+    "fields": {
+      "product": 6,
+      "name": 3,
+      "value": "16.1\""
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 10,
+    "fields": {
+      "product": 6,
+      "name": 6,
+      "value": "1920x1080 Пикс"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 11,
+    "fields": {
+      "product": 7,
+      "name": 7,
+      "value": "A"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 12,
+    "fields": {
+      "product": 8,
+      "name": 1,
+      "value": "HarmonyOS 2.0"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 13,
+    "fields": {
+      "product": 8,
+      "name": 3,
+      "value": "10.4\""
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 14,
+    "fields": {
+      "product": 9,
+      "name": 1,
+      "value": "FreeDOS"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 15,
+    "fields": {
+      "product": 10,
+      "name": 8,
+      "value": "7.1.2"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 16,
+    "fields": {
+      "product": 10,
+      "name": 9,
+      "value": "570 Вт"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 17,
+    "fields": {
+      "product": 10,
+      "name": 10,
+      "value": "Есть"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 18,
+    "fields": {
+      "product": 10,
+      "name": 11,
+      "value": "Есть"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 19,
+    "fields": {
+      "product": 11,
+      "name": 8,
+      "value": "2.0"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 20,
+    "fields": {
+      "product": 11,
+      "name": 9,
+      "value": "60 Вт"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 21,
+    "fields": {
+      "product": 11,
+      "name": 10,
+      "value": "Есть"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 22,
+    "fields": {
+      "product": 12,
+      "name": 12,
+      "value": "Двухкамерный"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 23,
+    "fields": {
+      "product": 12,
+      "name": 13,
+      "value": "346 л"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 24,
+    "fields": {
+      "product": 12,
+      "name": 14,
+      "value": "1"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 25,
+    "fields": {
+      "product": 13,
+      "name": 3,
+      "value": "23.8\""
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 26,
+    "fields": {
+      "product": 13,
+      "name": 15,
+      "value": "1920x1080 Пикс"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 27,
+    "fields": {
+      "product": 13,
+      "name": 4,
+      "value": "IPS"
+    }
+  },
+  {
+    "model": "products.productspecification",
+    "pk": 28,
+    "fields": {
+      "product": 13,
+      "name": 17,
+      "value": "6 мс"
+    }
+  },
+  {
+    "model": "products.reviews",
+    "pk": 41,
+    "fields": {
+      "author": "bhjbjj",
+      "email": "fghjjfgh@m.com",
+      "text": "ghvhkg",
+      "rate": 5,
+      "date": "2023-03-17T22:24:33.680Z",
+      "product": 7
+    }
+  },
+  {
+    "model": "products.reviews",
+    "pk": 42,
+    "fields": {
+      "author": "fg",
+      "email": "xdf@c.com",
+      "text": "bjh",
+      "rate": 5,
+      "date": "2023-03-17T22:28:06.695Z",
+      "product": 7
+    }
+  },
+  {
+    "model": "products.reviews",
+    "pk": 43,
+    "fields": {
+      "author": "s",
+      "email": "x@m.com",
+      "text": "f",
+      "rate": 5,
+      "date": "2023-03-17T22:39:33.121Z",
+      "product": 7
+    }
+  },
+  {
+    "model": "products.reviews",
+    "pk": 44,
+    "fields": {
+      "author": "dffv",
+      "email": "sdfv@m.com",
+      "text": "dfv",
+      "rate": 5,
+      "date": "2023-03-17T23:28:30.749Z",
+      "product": 7
+    }
+  },
+  {
+    "model": "products.reviews",
+    "pk": 45,
+    "fields": {
+      "author": "dffevee",
+      "email": "e@c.com",
+      "text": "dfdvfdfvvfd",
+      "rate": 5,
+      "date": "2023-03-17T23:30:13.383Z",
+      "product": 5
+    }
+  },
+  {
+    "model": "products.reviews",
+    "pk": 46,
+    "fields": {
+      "author": "csc",
+      "email": "scsc@c.com",
+      "text": "cscs",
+      "rate": 5,
+      "date": "2023-03-17T23:30:38.854Z",
+      "product": 5
+    }
+  },
+  {
+    "model": "products.reviews",
+    "pk": 47,
+    "fields": {
+      "author": "sesw",
+      "email": "sww@w.ru",
+      "text": "hbjbhj",
+      "rate": 5,
+      "date": "2023-03-17T23:58:21.311Z",
+      "product": 5
+    }
+  },
+  {
+    "model": "products.reviews",
+    "pk": 48,
+    "fields": {
+      "author": "gh",
+      "email": "d@d.ru",
+      "text": "ghf",
+      "rate": 5,
+      "date": "2023-03-19T01:17:49.685Z",
+      "product": 5
+    }
+  },
+  {
+    "model": "products.reviews",
+    "pk": 49,
+    "fields": {
+      "author": "dsfgsdfg",
+      "email": "wefwef@m.com",
+      "text": "dfgsdfg",
+      "rate": 5,
+      "date": "2023-03-19T12:01:57.231Z",
+      "product": 5
+    }
+  },
+  {
+    "model": "products.reviews",
+    "pk": 50,
+    "fields": {
+      "author": "Игорь",
+      "email": "ga@maol.ru",
+      "text": "Хороший телевизор",
+      "rate": 5,
+      "date": "2023-03-19T18:10:04.286Z",
+      "product": 1
+    }
+  },
+  {
+    "model": "products.reviews",
+    "pk": 51,
+    "fields": {
+      "author": "dfgh",
+      "email": "dfgfsdfgadfv@m.com",
+      "text": "dfghdfgh",
+      "rate": 5,
+      "date": "2023-03-20T19:44:37.476Z",
+      "product": 12
+    }
+  }
+]

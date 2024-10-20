@@ -1,0 +1,236 @@
+[
+  {
+    "model": "catalog.category",
+    "pk": 1,
+    "fields": {
+      "title": "Компьютеры и ноутбуки",
+      "active": true,
+      "parent": null,
+      "favourite": true
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 2,
+    "fields": {
+      "title": "Компьютеры",
+      "active": true,
+      "parent": 1,
+      "favourite": true
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 3,
+    "fields": {
+      "title": "Мониторы",
+      "active": true,
+      "parent": 1,
+      "favourite": true
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 4,
+    "fields": {
+      "title": "Ноутбуки",
+      "active": true,
+      "parent": 1,
+      "favourite": true
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 5,
+    "fields": {
+      "title": "Смартфоны и гаджеты",
+      "active": true,
+      "parent": null,
+      "favourite": true
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 6,
+    "fields": {
+      "title": "Смартфоны, мобильные телефоны",
+      "active": true,
+      "parent": 5,
+      "favourite": true
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 7,
+    "fields": {
+      "title": "Планшеты",
+      "active": true,
+      "parent": 5,
+      "favourite": true
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 8,
+    "fields": {
+      "title": "ТВ, аудио, видео",
+      "active": true,
+      "parent": null,
+      "favourite": true
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 9,
+    "fields": {
+      "title": "Акустические системы",
+      "active": true,
+      "parent": 8,
+      "favourite": true
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 10,
+    "fields": {
+      "title": "Телевизоры",
+      "active": true,
+      "parent": 8,
+      "favourite": true
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 11,
+    "fields": {
+      "title": "Техника для дома",
+      "active": true,
+      "parent": null,
+      "favourite": true
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 12,
+    "fields": {
+      "title": "Холодильники",
+      "active": true,
+      "parent": 11,
+      "favourite": true
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 13,
+    "fields": {
+      "title": "Стиральные машины",
+      "active": true,
+      "parent": 11,
+      "favourite": true
+    }
+  },
+  {
+    "model": "catalog.categoryicons",
+    "pk": 1,
+    "fields": {
+      "src": "catalog/icons/Компьютеры и ноутбуки/computers_and_laptops.svg",
+      "category": 1
+    }
+  },
+  {
+    "model": "catalog.categoryicons",
+    "pk": 2,
+    "fields": {
+      "src": "catalog/icons/Компьютеры и ноутбуки/Компьютеры/computers.svg",
+      "category": 2
+    }
+  },
+  {
+    "model": "catalog.categoryicons",
+    "pk": 3,
+    "fields": {
+      "src": "catalog/icons/Компьютеры и ноутбуки/Мониторы/monitors.svg",
+      "category": 3
+    }
+  },
+  {
+    "model": "catalog.categoryicons",
+    "pk": 4,
+    "fields": {
+      "src": "catalog/icons/Компьютеры и ноутбуки/Ноутбуки/laptop.svg",
+      "category": 4
+    }
+  },
+  {
+    "model": "catalog.categoryicons",
+    "pk": 5,
+    "fields": {
+      "src": "catalog/icons/Смартфоны и гаджеты/smartphones_and_gadgets.svg",
+      "category": 5
+    }
+  },
+  {
+    "model": "catalog.categoryicons",
+    "pk": 6,
+    "fields": {
+      "src": "catalog/icons/Смартфоны и гаджеты/Смартфоны, мобильные телефоны/smartphones.svg",
+      "category": 6
+    }
+  },
+  {
+    "model": "catalog.categoryicons",
+    "pk": 7,
+    "fields": {
+      "src": "catalog/icons/Смартфоны и гаджеты/Планшеты/tablet.svg",
+      "category": 7
+    }
+  },
+  {
+    "model": "catalog.categoryicons",
+    "pk": 8,
+    "fields": {
+      "src": "catalog/icons/ТВ, аудио, видео/tv_audio_video.svg",
+      "category": 8
+    }
+  },
+  {
+    "model": "catalog.categoryicons",
+    "pk": 9,
+    "fields": {
+      "src": "catalog/icons/ТВ, аудио, видео/Акустические системы/acoustic.svg",
+      "category": 9
+    }
+  },
+  {
+    "model": "catalog.categoryicons",
+    "pk": 10,
+    "fields": {
+      "src": "catalog/icons/ТВ, аудио, видео/Телевизоры/tv.svg",
+      "category": 10
+    }
+  },
+  {
+    "model": "catalog.categoryicons",
+    "pk": 11,
+    "fields": {
+      "src": "catalog/icons/Техника для дома/home_appliances.svg",
+      "category": 11
+    }
+  },
+  {
+    "model": "catalog.categoryicons",
+    "pk": 12,
+    "fields": {
+      "src": "catalog/icons/Техника для дома/Холодильники/fridge.svg",
+      "category": 12
+    }
+  },
+  {
+    "model": "catalog.categoryicons",
+    "pk": 13,
+    "fields": {
+      "src": "catalog/icons/Техника для дома/Стиральные машины/bathroom.svg",
+      "category": 13
+    }
+  }
+]
