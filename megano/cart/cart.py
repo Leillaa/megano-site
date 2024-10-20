@@ -1,7 +1,7 @@
 from decimal import Decimal
 
-from megano import settings
-from products.models import Product
+from megano.megano import settings
+from ..products.models import Product
 
 
 class Cart(object):
